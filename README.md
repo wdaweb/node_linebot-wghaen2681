@@ -1,31 +1,20 @@
-# 泰山職訓前端班期中作業
+<h1>Festival Center</h1>
 
-請學員製作⼀個查詢公開資料的 LINE 機器⼈，並部署到 [heroku](https://festival-center.herokuapp.com/)  
-資料來源不限，可使⽤ Google API、[政府開放資料](https://data.gov.tw/)等  
-**請將作業上傳到自己的 GitHub 儲存庫**  
-**並在儲存庫的 README.md 註明機器⼈的好友 ID 、連接的公開資料來源以及使⽤說明**  
-**最後將本檔案下方的作業連結改為自己的 GitHub 儲存庫**  
-**未修改連結視同零分**
+✨ Fun for 365! ✨
 
-## 繳交時間
+<span>👉🏻 介紹及使用說明<span>
 
-2020 年 11 月 30 日
+<p>
+Festival Center 是一款提供節慶活動查詢的 LINE Bot。<br>
+透過下方 QRcode 或 ID 與 Festival Center 成為好友。<br>
+輸入想查詢節慶的縣市、活動月份、欲搜尋活動的開始日期與結束日期，<br>例如：北部 六月 6/1 7/1
+</p>
 
-## 分數分配
+<span>👉🏻 使用 ID 加入 LINE 好友<span><br>
+@354tjznh<br>
+<span>👉🏻 使用 QR-CODE 加入 LINE 好友<span><br>
 
-| 項⽬                   | 說明                                | 分數 |
-| :--------------------- | :---------------------------------- | :--- |
-| 上傳到 GitHub          | 是否將作品上傳⾄自己的 GitHub       | 15   |
-| 編寫 README            | 是否編寫自己的 GitHub 儲存庫 README | 15   |
-| 串接⼀個以上的公開資料 | 是否串接⼀個以上的公開資料          | 30   |
-| 部署到 heroku          | 是否部署到 heroku                   | 30   |
-| 機器⼈實⽤性           | 機器⼈功能的實⽤程度                | 10   |
+![Getting Started](./@354tjznh--QRcode.png)
 
-## 注意
-
-請盡量使用上課教的 GUI 工具或 git 指令繳交作業  
-若使用 GitHub 網頁進行 commit 會依次數扣分
-
-## 作業連結
-
-- [儲存庫](https://festival-center.herokuapp.com/)
+資料來源<br>
+▸ 交通部觀光局 - 台灣觀光雙年曆 : https://www.taiwan.net.tw/m1.aspx?sNo=0001019
